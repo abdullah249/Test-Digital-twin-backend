@@ -1,0 +1,14 @@
+{
+  "name": "digital-twin-backend-root",
+  "version": "1.0.0",
+  "description": "Root package.json for Render deployment",
+  "scripts": {
+    "build": "cd digitaltwin && npm run build",
+    "start": "cd digitaltwin && npm start",
+    "install": "cd digitaltwin && npm install"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
