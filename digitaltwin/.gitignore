@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+*.log
+
+# Build artifacts
+*.map
+*.tsbuildinfo
+
+# Test files
+test-*.js
+test-*.ts

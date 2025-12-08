@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "incremental": true, 
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "ES2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "noEmitOnError": false,
+    "noImplicitAny": false,
+    "ignoreDeprecations": "5.0"
+  },
+  "include": ["src/**/*", "src/index.ts"]
+}
