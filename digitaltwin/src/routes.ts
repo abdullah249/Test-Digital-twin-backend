@@ -209,6 +209,7 @@ export function registerRoutes(app: Express): Server {
 
         const allowedOrigins = [
           "https://digital-frontend-1rc0.onrender.com",
+          "https://test-digital-twin-2.onrender.com",
           "http://localhost:3000",
           "http://localhost:3001",
           "http://localhost:5173",
@@ -247,6 +248,7 @@ export function registerRoutes(app: Express): Server {
 
     const allowedOrigins = [
       "https://digital-frontend-1rc0.onrender.com",
+      "https://test-digital-twin-2.onrender.com",
       "http://localhost:3000",
       "http://localhost:3001",
       "http://localhost:5173",
