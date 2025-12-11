@@ -210,6 +210,7 @@ export function registerRoutes(app: Express): Server {
         const allowedOrigins = [
           "https://digital-frontend-1rc0.onrender.com",
           "https://test-digital-twin-2.onrender.com",
+          "https://www.anatomie.tv",
           "http://localhost:3000",
           "http://localhost:3001",
           "http://localhost:5173",
